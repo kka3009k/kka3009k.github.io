@@ -1,7 +1,7 @@
 {
   "entryAssembly": "LoveTest",
   "resources": {
-    "hash": "sha256-fAh2ZqtKgbtzbGkS2n15uJlBVJpwTmtGDNbwp6Ktk48=",
+    "hash": "sha256-iZjyFkQNPe/4t2i0DNG5tJJ7XugBJow4MJHUCc8osks=",
     "runtime": {
       "dotnet.7.0.16.vibzu7ound.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "LoveTest.dll": "sha256-SKsa7M+k6cHRYeVZUTTjT5zorRsJ3GHKOlbCLfEvVYQ=",
+      "LoveTest.dll": "sha256-usOThpjExmMyYHMiVPqZquYdA64G50zxYKt+fvAvSTc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PR8GU7NXqH3j0R8h02F+I6AJKoMI9HLtP3PrfwdynnA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-YL7nyljwU5o6vm9+gK0K2h8DwBHB723SQhTPeraJ1gM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-zoSaQrSYfdiXSoGI50dxDW/kgi6K56D4rzl3/+KEVQM=",
