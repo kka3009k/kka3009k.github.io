@@ -1,0 +1,14 @@
+/* /Pages/Index.razor.rz.scp.css */
+.bs-example[b-tcm2ysnhsx] {
+    margin: 20px;
+}
+
+.list-group-item[b-tcm2ysnhsx] {
+    font-size: x-large;
+    cursor: pointer;
+}
+
+    .list-group-item:hover[b-tcm2ysnhsx] {
+        background: #cf93bf;
+        color: white;
+    }
